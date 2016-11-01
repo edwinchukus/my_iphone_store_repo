@@ -1,0 +1,45 @@
+#Git global setup after installation a local machine
+git config --global user.name "Edwin Nwofor"
+git config --global user.email "edwin.nwofor@yahoo.com"
+
+
+# Existing folder or Git repository
+cd existing_folder
+git init
+git remote add origin https://github.com/edwinchukus/sharp_gate_repo.git 
+git add .
+git commit
+git pull origin master 
+git push -u origin master
+
+
+
+#Create a new repository
+git clone https://github.com/edwinchukus/sharp_gate_repo.git
+cd traincentre_repo
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+
+
+# Normal Commands
+git status
+git add --all
+git commit -m "Meessage"
+
+
+#To reset changes made locally before commit   
+git reset --hard
+git rm --cached HEAD 
+
+#To reset changes made locally after commit 
+$ git reset HEAD^ --hard
+
+
+# To reset changes made on the remote repository:
+git push -f origin 2be0d2e55201:master
+
+
+
