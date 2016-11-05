@@ -1,4 +1,0 @@
-
-System.out.println("Arsenal FC we are here to win" + leaguePoint);
-
-//FirstCommit.Lanre.BehindTheQwertyKeypad
