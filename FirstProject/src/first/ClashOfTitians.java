@@ -11,6 +11,12 @@ public class ClashOfTitians {
      System.out.println("Hello World");
      System.out.println("Hello World");
      System.out.println("Hello World");
+
+ }
+
+
+ public void jump(){
+     System.out.println("Police branch");
  }
  }
 

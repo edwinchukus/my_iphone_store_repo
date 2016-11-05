@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d36c62-d983-45b5-bd56-d48aeb41ed4b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/ClashOfTitians.java" afterPath="$PROJECT_DIR$/src/first/ClashOfTitians.java" />
     </list>
     <ignored path="FirstProject.iws" />
@@ -37,9 +38,12 @@
       <file leaf-file-name="ClashOfTitians.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="209">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -658,7 +662,7 @@
       <updated>1478207668158</updated>
       <workItem from="1478207673587" duration="4248000" />
       <workItem from="1478296786832" duration="66000" />
-      <workItem from="1478375035086" duration="931000" />
+      <workItem from="1478375035086" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="This is to prove that I can commit through the Intellij IDEA">
       <created>1478211645895</created>
@@ -671,7 +675,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5245000" />
+    <option name="totallyTimeSpent" value="5882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
@@ -834,9 +838,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="209">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
