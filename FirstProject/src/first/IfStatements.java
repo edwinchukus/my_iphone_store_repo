@@ -6,6 +6,6 @@ package first;
 public class IfStatements {
 
  public void sit(){
-     
+
  }
 }

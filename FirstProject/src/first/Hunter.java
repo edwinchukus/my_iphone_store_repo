@@ -5,5 +5,6 @@ package first;
  */
 public class Hunter {
 
-    
+
+
 }
