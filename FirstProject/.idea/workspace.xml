@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d36c62-d983-45b5-bd56-d48aeb41ed4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/ClashOfTitians.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FirstProject/first/IfStatements.class" afterPath="$PROJECT_DIR$/out/production/FirstProject/first/IfStatements.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/ClashOfTitians.java" afterPath="$PROJECT_DIR$/src/first/ClashOfTitians.java" />
     </list>
     <ignored path="FirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,12 +37,9 @@
       <file leaf-file-name="ClashOfTitians.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -663,7 +658,7 @@
       <updated>1478207668158</updated>
       <workItem from="1478207673587" duration="4248000" />
       <workItem from="1478296786832" duration="66000" />
-      <workItem from="1478375035086" duration="814000" />
+      <workItem from="1478375035086" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="This is to prove that I can commit through the Intellij IDEA">
       <created>1478211645895</created>
@@ -676,7 +671,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5128000" />
+    <option name="totallyTimeSpent" value="5180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
@@ -839,12 +834,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
