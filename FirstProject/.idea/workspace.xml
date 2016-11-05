@@ -37,8 +37,8 @@
       <file leaf-file-name="ClashOfTitians.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="196">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -658,7 +658,7 @@
       <updated>1478207668158</updated>
       <workItem from="1478207673587" duration="4248000" />
       <workItem from="1478296786832" duration="66000" />
-      <workItem from="1478375035086" duration="866000" />
+      <workItem from="1478375035086" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="This is to prove that I can commit through the Intellij IDEA">
       <created>1478211645895</created>
@@ -671,7 +671,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5180000" />
+    <option name="totallyTimeSpent" value="5211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
@@ -834,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/ClashOfTitians.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="196">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding />
         </state>
       </provider>
