@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d36c62-d983-45b5-bd56-d48aeb41ed4b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/UsElectionResult.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Hunter.java" afterPath="$PROJECT_DIR$/src/first/Hunter.java" />
-    </list>
+    <list default="true" id="69d36c62-d983-45b5-bd56-d48aeb41ed4b" name="Default" comment="" />
     <list id="2976090b-43d8-415f-bfd5-7150a8aac7ff" name="Failed commit: Default" comment="Merge branch 'master' of https://github.com/edwinchukus/my_iphone_store_repo&#10;&#10;# Conflicts:&#10;#&#9;FirstProject/.idea/misc.xml&#10;#&#9;FirstProject/.idea/workspace.xml&#10;" />
     <ignored path="FirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +56,8 @@
       <file leaf-file-name="Hunter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/first/Hunter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="142">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#105#106#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -679,7 +676,7 @@
       <workItem from="1478378851687" duration="16000" />
       <workItem from="1478379326766" duration="120000" />
       <workItem from="1478637062814" duration="940000" />
-      <workItem from="1478638412624" duration="454000" />
+      <workItem from="1478638412624" duration="1127000" />
     </task>
     <task id="LOCAL-00001" summary="This is to prove that I can commit through the Intellij IDEA">
       <created>1478211645895</created>
@@ -720,7 +717,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6775000" />
+    <option name="totallyTimeSpent" value="7448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="7" />
@@ -1097,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/Hunter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="142">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
