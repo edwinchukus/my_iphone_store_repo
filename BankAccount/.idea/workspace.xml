@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23457020-010b-4288-85ae-bcc271f03ba9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java" afterPath="$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java" />
-    </list>
+    <list default="true" id="23457020-010b-4288-85ae-bcc271f03ba9" name="Default" comment="" />
     <ignored path="BankAccount.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -152,6 +150,7 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstProject" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
@@ -584,12 +583,12 @@
       <updated>1478555541415</updated>
       <workItem from="1478555545149" duration="8930000" />
       <workItem from="1478566660408" duration="178000" />
-      <workItem from="1478596115662" duration="1959000" />
+      <workItem from="1478596115662" duration="2586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11067000" />
+    <option name="totallyTimeSpent" value="11694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="41" width="2418" height="1318" extended-state="6" />
