@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23457020-010b-4288-85ae-bcc271f03ba9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/out/production/Car/suv/cars/ToyotaAvensis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/out/production/Car/suv/cars/ToyotaCamry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/out/production/Car/suv/cars/ToyotaCarina.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/out/production/Car/suv/cars/ToyotaCorona.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/animal/test/me/DomesticAnimal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/animal/test/me/Gun.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/animal/test/me/MeansOfTransport.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/animal/test/me/Ticket.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/company/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/company/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/out/production/OOPCopncept/com/company/RoyalMailDeliverVan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/src/suv/cars/ToyotaAvensis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/src/suv/cars/ToyotaCamry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/src/suv/cars/ToyotaCarina.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Car/src/suv/cars/ToyotaCorona.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/OOPCopncept.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/animal/test/me/DomesticAnimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/animal/test/me/Gun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/animal/test/me/Iphone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/animal/test/me/MeansOfTransport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/animal/test/me/Ticket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/company/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/company/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/company/RoyalMailDeliverVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/motors/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPCopncept/src/com/motors/Runner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BankAccount/com/bankaccount/AccountDetails.class" afterPath="$PROJECT_DIR$/out/production/BankAccount/com/bankaccount/AccountDetails.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankAccount.iml" afterPath="$PROJECT_DIR$/BankAccount.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Car/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Car/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Car/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Car/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Car/Car.iml" afterPath="$PROJECT_DIR$/../Car/Car.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPCopncept/.idea/misc.xml" afterPath="$PROJECT_DIR$/../OOPCopncept/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java" afterPath="$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java" />
     </list>
     <ignored path="BankAccount.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,8 +37,8 @@
       <file leaf-file-name="AccountDetails.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="550">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -126,10 +76,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="50" />
-    <option name="width" value="1936" />
-    <option name="height" value="1038" />
+    <option name="x" value="2391" />
+    <option name="y" value="41" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -634,15 +584,15 @@
       <updated>1478555541415</updated>
       <workItem from="1478555545149" duration="8930000" />
       <workItem from="1478566660408" duration="178000" />
-      <workItem from="1478596115662" duration="124000" />
+      <workItem from="1478596115662" duration="1959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9232000" />
+    <option name="totallyTimeSpent" value="11067000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="50" width="1936" height="1038" extended-state="0" />
+    <frame x="2391" y="41" width="2418" height="1318" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -656,7 +606,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19837885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -763,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bankaccount/AccountDetails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="550">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding />
         </state>
       </provider>
