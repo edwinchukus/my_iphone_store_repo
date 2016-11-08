@@ -23,7 +23,7 @@ public class AccountDetails {
           }
 
 
-            public void  payMoney (){
+            public void  payMoneys (){
 
                System.out.println("Via online Banking");
            }
