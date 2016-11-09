@@ -1,4 +1,4 @@
-//*Simple Java Calculator. Written by Kelvin@071116
+//*Simple Java Calculator
 package calculations;
 import java.util.Scanner;
 public class Calculator1 {
