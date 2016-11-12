@@ -8,11 +8,14 @@ public class Laptop {
 
     private String laptopName = "Dell";
     private int laptopAge = 2;
-    private double amount = 2000.00;
+    public double amount = 2000.00;
 
 
     public void printDoc(){
-        System.out.println("I am printing ...");
+        if(amount < 2000){
+            amount = 5000;
+        }
+        System.out.println("I am printing ..."+amount);
     }
 
 
