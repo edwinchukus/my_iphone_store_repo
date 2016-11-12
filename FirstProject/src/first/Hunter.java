@@ -6,10 +6,4 @@ package first;
 public class Hunter {
 
 
-
-
-  public void test(){
-      System.out.println("any code");
-  }
-
 }
