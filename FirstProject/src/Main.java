@@ -1,15 +1,16 @@
-import computing.Laptop;
+import employee.bonus.ZenithBankPlc;
 
 public class Main {
 
     public static void main(String[] args) {
 
 
-        Laptop dellLaptop = new Laptop();
-
-        dellLaptop.printDoc();
+        ZenithBankPlc bank = new ZenithBankPlc();
 
 
+        bank.setSalaryAmount(80000);
+
+        bank.giveBonus();
 
 
 
