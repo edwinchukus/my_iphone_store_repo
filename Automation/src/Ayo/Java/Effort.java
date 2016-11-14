@@ -10,4 +10,14 @@ public class Effort {
 		System.out.println(myArrays.length);
 		System.out.println(myArrays[0]);
     System.out.println("Int")
+
+
+    var chaitanya =
+            "firstName" : "Ayobami",
+            "lastName" : "LAWAL",
+            "age" :  "00";
+    System.out.println( " Basic Info");
 }
+
+
+
