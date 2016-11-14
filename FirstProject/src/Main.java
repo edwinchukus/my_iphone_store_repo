@@ -1,4 +1,3 @@
-import computing.Laptop;
 import employee.bonus.ZenithBankPlc;
 
 public class Main {
@@ -8,10 +7,12 @@ public class Main {
 
         ZenithBankPlc bank = new ZenithBankPlc();
 
-
+        bank.giveBonus();
         bank.setSalaryAmount(80000);
 
         bank.giveBonus();
+
+
 
 
 
