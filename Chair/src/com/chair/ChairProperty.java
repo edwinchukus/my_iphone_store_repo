@@ -21,7 +21,7 @@ public class ChairProperty {
     }
     public void replaceChair(){
         if (chairValue < 500){
-            System.out.println("Depreciation");
+            System.out.println("Depreciation of chair");
         }else
             System.out.println("We need to replace the chair in the house, too old !!!");
 
