@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="Code" type="CLASS" />
-      <mapping pattern="Ayo" type="CLASS" />
-    </extensionMap>
-  </component>
-</application>
