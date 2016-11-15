@@ -60,3 +60,4 @@ _ReSharper*/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+.idea
