@@ -8,4 +8,7 @@ i am want to add code but intelliJ idea not working
 Okay 
 dee
 
-Load Repo by Mistake, project is screwed up
+Load Repo by Mistake, project is screwed up.
+
+Getting it together 
+
