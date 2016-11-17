@@ -24,6 +24,7 @@ _ReSharper*/
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
 *.iml
+*.aws
 
 ## Directory-based project format:
 .idea/
