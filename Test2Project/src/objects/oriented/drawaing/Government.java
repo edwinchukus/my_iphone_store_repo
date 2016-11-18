@@ -1,4 +1,4 @@
-package object.oriented.drawaing;
+package objects.oriented.drawaing;
 
 import objects.oreinted.programming.ElectricCar;
 
@@ -9,7 +9,6 @@ public class Government {
 
 
     public void inspectCar(){
-
 
         ElectricCar carForInspection = new ElectricCar();
         int carAge = carForInspection.getCarAge();
