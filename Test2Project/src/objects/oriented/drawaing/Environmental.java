@@ -1,4 +1,4 @@
-package object.oriented.drawaing;
+package objects.oriented.drawaing;
 
 /**
  * Created by dotcom on 15/11/16.
