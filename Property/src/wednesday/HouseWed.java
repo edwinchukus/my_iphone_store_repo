@@ -30,12 +30,15 @@ public class HouseWed {
 
     public void GradingHouse() {
         double houseGrade = 50000.00;
-
     }
 
 
    public void sethouseNo(int houseNo) {
-      this.houseNo = houseNo;
+       if(houseNo < 10){
+           System.out.println("I am not going to set it");
+       }else{
+           this.houseNo = houseNo;
+       }
    }
 
     public String getHouseType() {

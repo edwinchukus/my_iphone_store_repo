@@ -12,7 +12,10 @@ public class Main {
 //          chairProperty.chairValue = 400;
            chairProperty.setChairValue(7000);
            chairProperty.replaceChair();
+           int myint =200
+
        }
+
 
 
 }
