@@ -37,11 +37,6 @@ public class HouseWed {
    public void sethouseNo(int houseNo) {
       this.houseNo = houseNo;
    }
-//        if (houseNo > 60) {
-//          System.out.println("Good to change the house no");
-//       } else {
-//            System.out.println("leave it as it is");
-//        }
 
     public String getHouseType() {
         return houseType;
@@ -53,5 +48,6 @@ public class HouseWed {
     public int gethouseNo() {
         return houseNo;
     }
+
 
 }
