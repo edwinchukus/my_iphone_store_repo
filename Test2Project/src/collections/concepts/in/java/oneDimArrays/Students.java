@@ -1,4 +1,4 @@
-package collections.concepts.in.java;
+package collections.concepts.in.java.oneDimArrays;
 
 /**
  * Created by dotcom on 17/11/16.
@@ -15,6 +15,20 @@ public class Students {
         studentAges[4] = 25;
     }
 
+    public void getArrayIndex(){
+        for (int student : studentAges) {
+             System.out.println(student);
+        }
+    }
+
+    public int getTotalStudents(){
+        return studentAges.length;
+    }
+
+    public int[] getAllStudents(){
+        int [] classB = studentAges.clone();
+        return classB;
+    }
 
     public String findStudent(int studentAge) {
         int[] j = studentAges.clone();
