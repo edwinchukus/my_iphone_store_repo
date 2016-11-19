@@ -9,8 +9,6 @@ public class Government {
 
 
     public void inspectCar(){
-
-
         ElectricCar carForInspection = new ElectricCar();
         int carAge = carForInspection.getCarAge();
 
