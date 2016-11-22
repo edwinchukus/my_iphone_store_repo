@@ -1,0 +1,13 @@
+# Commit to sample Gherkin Doc. to Git
+
+Feature: Account Holder withdraws cash
+
+Scenario: Account has sufficient funds
+   
+Given the account balance is >= £100
+  And the card is valid
+  And the machine contains enough money  
+When the Account Holder requests <= £100
+Then the ATM should dispense <= 100
+  And the account balance should be withdrawn amount less initial balance 
+  And the card should be returned
