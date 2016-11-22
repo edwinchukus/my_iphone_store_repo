@@ -1,12 +1,12 @@
 package com.test;
 
 import MotorVehicle.Speed01;
+import TestGetter.Setter.CompanyStaff;
 
 public class Main {
 
     public static void main(String[] args) {
-	Speed01 audicar = new Speed01 ();
-        audicar.changegear();
-
+        CompanyStaff company = new CompanyStaff();
+        company.getStaffage();
     }
 }
