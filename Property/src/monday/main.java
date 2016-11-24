@@ -1,5 +1,6 @@
 package monday;
 
+import list.collection.NumberOfRadiatorHouse;
 import wednesday.HouseWed;
 
 /**
@@ -19,6 +20,7 @@ public class main {
         houseWed.getHouseType();
        houseWed.sethouseNo(60);
         houseWed.gethouseNo();
+
 
 
     }
