@@ -1,10 +1,8 @@
-import collections.concepts.in.java.hashable.Employees;
+import file.input.ElectricityBills;
 
 public class Main {
 
     public static void main(String[] args) {
-        Employees emp = new Employees();
-
 
 
 

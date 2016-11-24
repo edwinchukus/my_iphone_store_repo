@@ -6,13 +6,9 @@ package string.operators;
 public class TestStrings {
 
     public static void main(String args[]){
-        String name = " JOHNSTON Kelly ";
-
-        String result = name.trim();
-
-        boolean ans = result.equals("JOHNSTON Kelly");
+        String name = "JOHNSTON Kelly";
 
 
-        System.out.println(ans);
+        System.out.println();
     }
 }
