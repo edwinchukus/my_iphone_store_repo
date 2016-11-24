@@ -31,7 +31,7 @@ public class MainOne {
         int result3 = numberOfRadiatorHouse.getRadiator();
         numberOfRadiatorHouse.displayAllRadiator();
 
-
+        numberOfRadiatorHouse.displayAllRadiators();
     }
 
 }

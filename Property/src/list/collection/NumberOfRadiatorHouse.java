@@ -12,7 +12,7 @@ public class NumberOfRadiatorHouse {
 
     public NumberOfRadiatorHouse() {
 //       ArrayList <Integer> countingNumberOfRadiatorHouse = new ArrayList<Integer>();
-        List<Integer> count = new ArrayList<Integer>();
+        count = new ArrayList<Integer>();
         count.add(0);
         count.add(1);
         count.add(2);
@@ -20,7 +20,7 @@ public class NumberOfRadiatorHouse {
 
 
     public int getRadiator() {
-        return count.get(1);
+        return count.get(2);
     }
 
 
