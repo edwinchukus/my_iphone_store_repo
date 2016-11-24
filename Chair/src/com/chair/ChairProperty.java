@@ -5,28 +5,28 @@ package com.chair;
  */
 public class ChairProperty {
 
-     int chairValue = 1000;
+    int chairValue = 1000;
     private String chairType = "Golden";
-          int chairAge = 5;
-            String ChairCover = "Leather";
-           String ChairColour = "Black";
+    int chairAge = 5;
+    String ChairCover = "Leather";
+    String ChairColour = "Black";
 
     //        concept of encapsulation
-    public  void setChairValue(int chairValue) {
+    public void setChairValue(int chairValue) {
         if (chairValue < 7000) {
             System.out.println("please ignore");
         } else {
             this.chairValue = chairValue;
         }
     }
-    public void replaceChair(){
-        if (chairValue < 500){
+
+    public void replaceChair() {
+        if (chairValue < 500) {
             System.out.println("Depreciation of chair");
-        }else
+        } else
             System.out.println("We need to replace the chair in the house, too old !!!");
 
     }
-
 
 
 }
