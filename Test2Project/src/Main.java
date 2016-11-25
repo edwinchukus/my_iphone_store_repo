@@ -1,16 +1,45 @@
-import collections.concepts.in.java.lists.ShoppingCart;
+import file.input.ElectricityBills;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        ShoppingCart myShopping = new ShoppingCart();
 
-        String myItem = myShopping.getItem(3);
 
-        myShopping.showAllItems();
+//
+//        Library lib = new Library();
+//
+//        Enumeration<String> result  = lib.carkeys();
+//        String elementName  = result.nextElement();
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Please provide your name?: ");
+//        String carKey = scanner.nextLine();
+//        System.out.println("Please provide your car name?: ");
+//        String carName = scanner.nextLine();
+//
+//        Library lib = new Library();
+//
+//
+//
+//        lib.setCar(carKey, carName);
+//
+//        lib.cleanCarRecord();
+//
+//        String carName1 = lib.getCar(carKey);
+//
+//        System.out.println(carName1);
+//
 
-        myShopping.displayAllItems();
+
+
+
+//        ShoppingCart myShopping = new ShoppingCart();
+//
+//        String myItem = myShopping.getItem(3);
+//
+//        myShopping.showAllItems();
+//
+//        myShopping.displayAllItems();
 
 
 

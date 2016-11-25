@@ -23,6 +23,7 @@ public class ShoppingCart {
         return myBlackFridayShopping.get(itemNumber);
     }
 
+
     public void showAllItems(){
         for (int i = 0; i<myBlackFridayShopping.size(); i++){
             System.out.println(myBlackFridayShopping.get(i));
