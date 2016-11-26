@@ -27,7 +27,7 @@ public class String_Functions {
         
         
   
-         String weather[] = name.split("way");
+         String weather[] = name.split(" ");
          
          for (int i=0; i<weather.length;i++)
          System.out.println(weather[i]);
