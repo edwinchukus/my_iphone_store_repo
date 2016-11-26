@@ -1,6 +1,9 @@
 package arraysConceptsContinue;
 
+import file.input.HouseBill;
 import list.collection.NumberOfRadiatorHouse;
+
+import java.io.IOException;
 
 /**
  * Created by dannyolu on 21/11/2016.
@@ -8,7 +11,7 @@ import list.collection.NumberOfRadiatorHouse;
 public class MainOne {
 
 
-    public static void main(String arg[]) {
+    public static void main(String arg[]) throws IOException {
 
         NumberOfBuilding numberOfBuilding = new NumberOfBuilding();
         String test = "This is, a test, for this year.";
@@ -32,6 +35,15 @@ public class MainOne {
         numberOfRadiatorHouse.displayAllRadiator();
 
         numberOfRadiatorHouse.displayAllRadiators();
+
+        HouseBill houseBill = new HouseBill();
+        houseBill.CreateMyFile();
+        houseBill.writeIntoMyFile();
+
+
+
+
+
     }
 
 }
