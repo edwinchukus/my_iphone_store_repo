@@ -8,6 +8,9 @@ public class FootballLeague {
     public static  void main (String []arg) {
 
         FootballerBonus footballerBonus = new FootballerBonus();
-          footballerBonus.giveBonus();
+
+        footballerBonus.setSalaryAmount(4500);
+
+        footballerBonus.giveBonus();
     }
 }
