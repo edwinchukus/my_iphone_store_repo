@@ -58,11 +58,12 @@ public class HouseBill {
 
     public void readContentOfFile() throws IOException {
         FileReader fileReader = new FileReader(myFile);
-        char[] fileContent = new char[100];
-        fileReader.read();
+        char[] fileContent = new char[30];
+        fileReader.read(fileContent);
 
         for(char content : fileContent){
             System.out.println(content);
+
         }
 
         fileReader.close();

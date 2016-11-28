@@ -1,5 +1,6 @@
 package arraysConceptsContinue;
 
+import com.hashtable.Tenant;
 import file.input.HouseBill;
 import list.collection.NumberOfRadiatorHouse;
 
@@ -39,8 +40,13 @@ public class MainOne {
         HouseBill houseBill = new HouseBill();
         houseBill.CreateMyFile();
         houseBill.writeIntoMyFile();
+        houseBill.readContentOfFile();
 
 
+
+        Tenant tenant = new Tenant();
+        String cleanTenant = tenant.gettenant("tenanttwo");
+        System.out.println(cleanTenant);
 
 
 
