@@ -5,9 +5,10 @@ package MotorVehicle;
  */
 public class Motorway {
 
-//
-
-
-    System.out.println("Motorway");
+       char Motorway = 'M';
+    public  char test (){
+        System.out.println(Motorway);
+        return Motorway;
+    }
 }
 
