@@ -6,6 +6,7 @@ package error.handling;
 public class FastFood {
 
 
+
 //    public void addTwoNumbers(int x, int y){
 //       try{
 //           double result = x /y;
