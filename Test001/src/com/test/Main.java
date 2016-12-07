@@ -1,12 +1,17 @@
 package com.test;
 
-import MotorVehicle.Speed01;
-import TestGetter.Setter.CompanyStaff;
+import Postage01.Post;
 
 public class Main {
 
     public static void main(String[] args) {
-        CompanyStaff company = new CompanyStaff();
-        company.getStaffage();
+
+        Post post = new Post();
+        post.setinput(100);
+        int postMan = post.deliveringMan(50);
+        System.out.println(postMan);
+
+
+
     }
 }
