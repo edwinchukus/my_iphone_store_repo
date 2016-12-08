@@ -62,35 +62,4 @@ public class AllAnimals {
 
     }
 
-    /*
-    private String Cattle;
-    private String Sheep;
-    private String Goat;
-    protected String[] animalFarm = {"Cattle", "Sheep", "Goat"};
-
-    // protected static String animalEat;
-
-    public String[] callAnimal(){
-
-        for(String animalType : animalFarm){
-            if(animalType.equals("Cattle")){
-                System.out.println("My name is " +animalType+ " and I can eat");
-            }else if(animalType.equals("Sheep")){
-                System.out.println("My name is " +animalType+ " and I can eat");
-            }else if(animalType.equals("Goat")){
-                System.out.println("My name is " +animalType+ " and I can eat");
-            }else{
-                System.out.println("animal not found");
-            }
-            return new String[0];
-        }
-
-       *//* Animals animals = new Animals();
-        animalEat = animals.getEat();
-        return animalEat;*//*
-
-        return new String[0];
-    }
-*/
-
 }
