@@ -3,33 +3,29 @@ package exhibition;
 
 public class Animals {
 	
-    String name;
+    private String name;
     
     public Animals (String name){
     	this.name = name;
     }
 	
 	public String eat() {
-		return " can eat";
-			
+		return "I am a "+name+" and I can eat";
 	}
 	
 	public String run() {
-		return " can run";
-			
+		return "I am a "+name+" and I can run";
 	}
 	
 	public String walk() {
-		return " can walk";
-			
+		return "I am a "+name+" and I can walk";
 	}
 	
 	public String jump() {
-		return " can jump";
-			
+		return "I am a "+name+" and I can jump";
 	}
 	
-	}
+}
 	
 	
 
