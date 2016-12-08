@@ -3,7 +3,7 @@ package object.oriented.inheritance;
 /**
  * Created by dotcom on 01/12/16.
  */
-public class Animal extends LivingOrganism{
+public class Animal extends LivingOrganism {
 
     protected boolean hasEyes = true;
     private String animalTagByCounty = "BED005";

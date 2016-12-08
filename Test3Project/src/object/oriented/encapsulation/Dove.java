@@ -5,7 +5,7 @@ import object.oriented.inheritance.Animal;
 /**
  * Created by dotcom on 01/12/16.
  */
-public class Dove extends Animal{
+public class Dove extends Animal {
 
 
     private boolean hasSkin = true;
