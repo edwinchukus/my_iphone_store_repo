@@ -11,4 +11,6 @@ public class Hunter {
         Animal animal = new Animal();
         animal.makeNoise();
     }
+
+    
 }
