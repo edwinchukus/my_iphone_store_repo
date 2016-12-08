@@ -17,6 +17,7 @@ public class NewClient {
 //
 //    public void setBankclients(Hashtable<String, Double> bankclients) {
 //        bankclients.put("Satanda", 50000.00);
+
 //        bankclients.put("Halifax", 70000.00);
 //        bankclients.put("Backlays", 90000.00);
 //

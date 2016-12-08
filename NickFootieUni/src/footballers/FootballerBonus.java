@@ -5,17 +5,19 @@ package footballers;
  */
 public class FootballerBonus {
 
-    private double salaryAmount = 1700;
+    private double salaryAmount = 27500;
 
+    public  void setSalaryAmount(double salaryAmount){
 
+    this.salaryAmount = salaryAmount;
+}
 
     public void giveBonus(){
 
-        if(salaryAmount < 2000){
-            salaryAmount = salaryAmount +500;
-            System.out.println("Congratulation, you got a bonus and your new salary is " + salaryAmount);
+        if(salaryAmount >= 25000){
+            System.out.println("your salary is relatively high; hence no bonus entitlement");
         }else{
-            System.out.println("you're not eligible for a bonus my friend!!");
+            System.out.println("your salary will be amended with a bonus my friend!!");
         }
     }
 }
