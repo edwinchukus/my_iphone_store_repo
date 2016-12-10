@@ -20,14 +20,9 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 
-### Intellij ###
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
-
-*.iml
 *.aws
 
-## Directory-based project format:
-.idea/
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
@@ -57,7 +52,9 @@ _ReSharper*/
 
 # IntelliJ
 /out/
+*/.idea/*
+*.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
-*/.idea/*
+
