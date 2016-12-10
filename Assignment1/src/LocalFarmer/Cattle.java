@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Created by ASUS on 05/12/2016.
  */
 public class Cattle {
+
     public  void main() {
 
         String []  Animal =  new String [3];

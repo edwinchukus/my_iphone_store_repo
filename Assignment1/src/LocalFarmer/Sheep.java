@@ -7,6 +7,9 @@ import java.util.Scanner;
  */
 public class Sheep {
 
+
+
+
     public void sheep () {
         String[] Animal = new String[3];
         Animal[0] = "Cattle";

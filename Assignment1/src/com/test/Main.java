@@ -1,12 +1,5 @@
 package com.test;
 
-import LocalFarmer.Cattle;
-import LocalFarmer.Goat;
-import LocalFarmer.Sheep;
-import Practice.Else_If;
-
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -36,7 +29,8 @@ public class Main {
 
 
 
-        }}
+        }
+}
 
 
 

@@ -1,5 +1,6 @@
 package LocalFarmer;
 
+
 import java.util.Scanner;
 
 /**
@@ -8,14 +9,14 @@ import java.util.Scanner;
 public class Goat {
 
 
-    public void Goat() {
+    public void goat() {
         String[] Animal = new String[3];
         Animal[0] = "Cattle";
         Animal[1] = "Sheep";
         Animal[2] = "Goat";
         System.out.println("Welcome to the exhibition, Please enter Animal ID you will like to buy");
         Scanner scanner = new Scanner(System.in);
-        String Name = scanner.next(Animal[2]);
+        String name = scanner.nextLine();
         System.out.println("Hi, My Name is Goat and i can eat, run, walk and jump");
     }
-    }
+}
