@@ -3,10 +3,9 @@ package com.company.interfacepack;
 /**
  * Created by dotcom on 13/12/16.
  */
-public class TescoExtra implements SunderlandCityCouncil{
+public class TescoExtra implements CityCouncil {
 
     private double accountBalance ;
-
 
 
     @Override
@@ -25,7 +24,7 @@ public class TescoExtra implements SunderlandCityCouncil{
         if(company.equalsIgnoreCase("city council") && company != null){
             return 981616;
         }
-        return 0;
+        return 34444;
     }
 
     @Override

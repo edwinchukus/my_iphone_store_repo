@@ -3,7 +3,7 @@ package com.company.interfacepack;
 /**
  * Created by dotcom on 13/12/16.
  */
-public class Asda implements SunderlandCityCouncil {
+public class Asda implements CityCouncil {
 
 
     private double accountBalance;

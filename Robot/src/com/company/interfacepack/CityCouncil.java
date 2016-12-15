@@ -1,12 +1,10 @@
 package com.company.interfacepack;
 
 
-
 /**
  * Created by dotcom on 13/12/16.
  */
-public interface SunderlandCityCouncil {
-
+public interface CityCouncil {
 
 
     String COUNCILNAME = "Sunderland CIty Council";

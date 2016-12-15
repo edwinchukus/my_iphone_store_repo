@@ -3,7 +3,7 @@ package com.company.interfacepack;
 /**
  * Created by dotcom on 13/12/16.
  */
-public class Lidl implements SunderlandCityCouncil {
+public class Lidl implements CityCouncil {
 
     @Override
     public void getFreshFarmProduce() {
