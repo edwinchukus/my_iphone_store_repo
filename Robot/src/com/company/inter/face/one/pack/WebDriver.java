@@ -5,7 +5,6 @@ package com.company.inter.face.one.pack;
  */
 public interface WebDriver {
 
-
     String findElement(String by);
     String findElements(String by);
 }

@@ -11,12 +11,17 @@ public class Test {
 
     private static WebDriver driver;
 
+
+
+
     public static void main(String args[]){
+
         if(true){
             driver = new ChromeDriver();
         }else{
             driver = new FirefoxDriver();
         }
-
     }
+
+
 }

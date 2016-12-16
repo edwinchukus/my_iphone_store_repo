@@ -4,6 +4,7 @@ import com.company.inter.face.one.pack.AbcPlc;
 import com.company.inter.face.one.pack.FootBallGames;
 import com.company.inter.face.one.pack.WebDriver;
 
+
 /**
  * Created by dotcom on 15/12/16.
  */
@@ -12,12 +13,13 @@ public class Human implements AbcPlc, FootBallGames, WebDriver {
 
     @Override
     public void makeProfit() {
-
+        System.out.println("H");
     }
 
     @Override
     public double publishFinReport(long finYear) {
-        return 0;
+
+        return 56757546d;
     }
 
     @Override
@@ -42,7 +44,7 @@ public class Human implements AbcPlc, FootBallGames, WebDriver {
 
     @Override
     public void playGames() {
-
+        System.out.println("hello");
     }
 
     @Override
