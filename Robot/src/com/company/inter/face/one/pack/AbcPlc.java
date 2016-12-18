@@ -20,4 +20,6 @@ public interface AbcPlc {
     void promoteEmp(int empId);
 
 
+
+
 }

@@ -17,4 +17,9 @@ public class ManU implements FootBallGames {
     public void kickBall() {
 
     }
+
+    @Override
+    public void scoreGoal(String player) {
+
+    }
 }
