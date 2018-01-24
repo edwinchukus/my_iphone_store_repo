@@ -7,9 +7,10 @@ import java.util.Scanner;
  * Created by LanreSarumi on 08/12/2016.
  */
 public class ExhibitionAnimal {
-    private String FarmAnimals[];
 
-    public ExhibitionAnimal() {
+    public static void main(String [] args){
+
+        String FarmAnimals[];
         FarmAnimals = new String[3];
         FarmAnimals[0] = "Goat";
         FarmAnimals[1] = "Cattle";
@@ -17,8 +18,9 @@ public class ExhibitionAnimal {
     }
 
 
-    public static void selectFarmAnimal() {
+    public static void select(){
         System.out.println("Please select farm Animal");
+
         Scanner scanner = new Scanner(System.in);
         String FarmAnimal = scanner.nextLine();
 
